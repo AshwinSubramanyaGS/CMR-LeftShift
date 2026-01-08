@@ -1,7 +1,10 @@
 # My DevOps Training Project
-## Introduction
+## Project Header
 Welcome to my DevOps learning journey.
 ## Features
+- Git version control
+- CI/CD pipeline
+- Automated testing
 - Git basics
 - Jenkins setup
 - Docker introduction
